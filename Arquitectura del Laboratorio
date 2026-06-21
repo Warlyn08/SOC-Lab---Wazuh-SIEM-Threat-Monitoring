@@ -16,3 +16,5 @@
            │Metasploitable│   │Virtual Network│
            │     2        │   │(VMware NAT/Host)│
            └──────────────┘   └──────────────┘
+
+Kali → ataques → Windows 10 → logs → Wazuh SIEM → alertas dashboard
