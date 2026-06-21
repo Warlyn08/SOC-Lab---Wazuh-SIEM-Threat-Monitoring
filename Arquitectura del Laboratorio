@@ -13,6 +13,6 @@
       └────────────┬──────┴────────────┬────────┘
                    │                   │
            ┌──────────────┐   ┌──────────────┐
-           │Metasploitable│   │Virtual Network│
-           │     2        │   │(VMware NAT/Host)│
+           │ Metasploitable│   │ Virtual Network│
+           │     2         │   │ (VMware NAT/Host)│
            └──────────────┘   └──────────────┘
